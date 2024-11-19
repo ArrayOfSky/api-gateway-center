@@ -1,7 +1,7 @@
 package com.gaoyifeng.apigateway.center.domain.manager.respository;
 
-import com.gaoyifeng.apigateway.center.domain.manager.model.GatewayServerDetailVO;
-import com.gaoyifeng.apigateway.center.domain.manager.model.GatewayServerVO;
+import com.gaoyifeng.apigateway.center.domain.manager.model.vo.GatewayServerDetailVO;
+import com.gaoyifeng.apigateway.center.domain.manager.model.vo.GatewayServerVO;
 
 import java.util.List;
 

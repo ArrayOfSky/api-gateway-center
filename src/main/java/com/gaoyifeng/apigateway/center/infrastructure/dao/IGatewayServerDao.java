@@ -1,20 +1,20 @@
 package com.gaoyifeng.apigateway.center.infrastructure.dao;
 
-import com.gaoyifeng.apigateway.center.infrastructure.po.HttpStatement;
+import com.gaoyifeng.apigateway.center.infrastructure.po.GatewayServer;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
 /**
  * @author gaoyifeng
- * @Classname IHttpStatementDao
+ * @Classname IGatewayServerDao
  * @Description TODO
- * @Date 2024/11/19 19:22
+ * @Date 2024/11/19 20:15
  * @Created by gaoyifeng
  */
 @Mapper
-public interface IHttpStatementDao {
+public interface IGatewayServerDao {
 
-    List<HttpStatement> queryHttpStatementList();
+    List<GatewayServer> queryGatewayServerList();
 
 }

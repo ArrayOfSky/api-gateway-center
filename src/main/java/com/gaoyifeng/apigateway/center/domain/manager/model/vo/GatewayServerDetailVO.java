@@ -1,4 +1,4 @@
-package com.gaoyifeng.apigateway.center.domain.manager.model;
+package com.gaoyifeng.apigateway.center.domain.manager.model.vo;
 
 /**
  * @author gaoyifeng

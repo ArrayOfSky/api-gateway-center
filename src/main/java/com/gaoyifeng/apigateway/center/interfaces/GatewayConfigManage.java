@@ -1,7 +1,7 @@
 package com.gaoyifeng.apigateway.center.interfaces;
 
 import com.gaoyifeng.apigateway.center.application.IConfigManageService;
-import com.gaoyifeng.apigateway.center.domain.manager.model.GatewayServerVO;
+import com.gaoyifeng.apigateway.center.domain.manager.model.vo.GatewayServerVO;
 import com.gaoyifeng.apigateway.center.infrastructure.commom.ResponseCode;
 import com.gaoyifeng.apigateway.center.infrastructure.commom.Result;
 import org.slf4j.Logger;

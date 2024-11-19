@@ -1,6 +1,6 @@
 package com.gaoyifeng.apigateway.center.application;
 
-import com.gaoyifeng.apigateway.center.domain.manager.model.GatewayServerVO;
+import com.gaoyifeng.apigateway.center.domain.manager.model.vo.GatewayServerVO;
 
 import java.util.List;
 
